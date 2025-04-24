@@ -1,0 +1,33 @@
+task = ""
+list []
+
+
+task = "jjds..."
+[]
+
+task = "kdsjflkasjd"
+[]
+
+
+task = ""
+["kdsjflkasjd"]
+
+
+tasl = "typ..."
+["kdsjflkasjd"]
+
+tasl = "typing"
+["kdsjflkasjd"]
+ |
+ |
+ addtodo
+
+ |
+
+
+task = ""
+["kdsjflkasjd","typing"]
+
+
+task=""
+["typing"]

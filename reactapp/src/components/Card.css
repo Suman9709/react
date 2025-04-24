@@ -1,0 +1,10 @@
+.img {
+    height: 300px;
+}
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
