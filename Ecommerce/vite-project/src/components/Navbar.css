@@ -1,0 +1,15 @@
+.navcont {
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+#namediv {
+    margin-left: auto;
+}
+
+.box {
+    margin: 5px;
+    padding: 5px;
+}
