@@ -1,0 +1,9 @@
+.itemcont {
+    flex: 3;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: green;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}

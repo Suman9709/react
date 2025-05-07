@@ -1,9 +1,9 @@
-import React, { useContext } from 'react'
+import React from 'react'
 import './Navbar.css'
-import { UserContext } from '../context/UserContext'
+import { useSelector } from 'react-redux';
 
 function Navbar() {
-    const {username} =useContext(UserContext);
+    const username = useSelector(state => state.user.username);
     return (
         <div className="navcont">
             <div className="box">Home</div>
